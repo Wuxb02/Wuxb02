@@ -3,8 +3,8 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/wuxb02)
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/)
 
-- 🍻 Studying Resource and Environment at 🇨🇳 [SYSU](https://www.sysu.edu.cn/), researching **machine learning method in geographical sciences and urban climate**.
-- ✨ Currently exploring new fields: **LLM, Agent, RAG**.
+- 🍻 Studying Resource and Environment at 🇨🇳 [SYSU](https://www.sysu.edu.cn/), researching **Machine Learning method in Geographical Sciences and Urban Climate**.
+- ✨ Currently exploring new fields: **LLM, Agent, RAG** and so on...
 - ⚡ **Python**, (Simple VUE and JAVA)
 
 Welcome to read and cite my article:
