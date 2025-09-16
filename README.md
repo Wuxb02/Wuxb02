@@ -1,7 +1,10 @@
 ### Yoo, I'm Wu 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/wuxb02)
-[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWuxb02&query=%24.data.totalSubs&label=Github)
+![qgis](https://img.shields.io/badge/qgis-589632?style=flat-square&logo=qgis&logoColor=white)
+![arcgis](https://img.shields.io/badge/arcgis-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 - 🍻 Studying Resource and Environment at 🇨🇳 [SYSU](https://www.sysu.edu.cn/), researching **Machine Learning method in Geographical Sciences and Urban Climate**.
 - ✨ Currently exploring new fields: **LLM, Agent, RAG** and so on...
